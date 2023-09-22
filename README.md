@@ -1,6 +1,5 @@
 # jobpost
-JOB LISTING
-HOT REMOTE JOB !
+HOT REMOTE JOBS !
 
 1. Fullstack Java ( Mobile )
  + Must have skills: Java, Kotlin, Javascript frameworks (ReactJS or Angular)
@@ -8,7 +7,7 @@ HOT REMOTE JOB !
 . +  Proficiency in English + Hiring process : #3round 
 
 2. .NET Developer
- + Must have skills: .NET Core minimum version 6, PHP as the frontend stack
++ Must have skills: .NET Core minimum version 6, PHP as the frontend stack
  + YoE: Ideally 3-5 years of experience. They need someone who can hit the ground directly upon joining, without them needing to train people. + Proficiency in English
  + Hiring process : #3rounds 
 
